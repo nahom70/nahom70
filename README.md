@@ -1,5 +1,5 @@
 # 👨‍💻 Nahom Mesfin  
-### Aspiring Software Developer | Web Development | Automation  
+### Aspiring Software Developer | Web Development 
 
 I'm a beginner programmer who likes building small, practical tools and learning how real web apps work from front to back.  
 I focus on clean UI, simple backends, and automating tiny tasks that make life easier.
