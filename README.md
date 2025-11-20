@@ -29,8 +29,7 @@ I focus on clean UI, simple backends, and automating tiny tasks that make life e
 ## 🚀 Projects
 
 ### 🧠 Learning Traits Analyzer  
-A small React + Flask project that collects user answers and gives simple learning-style feedback  
-(no ML involved).
+A small React + Flask project that collects user answers and gives simple learning-style feedback.
 
 ### 💬 Addis Chat  
 A lightweight chat app built with vanilla HTML, CSS, and JavaScript to practice DOM updates,  
