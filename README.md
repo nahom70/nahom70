@@ -1,49 +1,50 @@
-# 👨‍💻 Nahom Mesfin
+# 👨‍💻 Nahom Mesfin  
+### Aspiring Software Developer | Web Development | Automation  
 
-## Full-Stack Developer | Automation | AI Enthusiast
-
-I build practical tools using modern web technologies, automation workflows, and AI foundations. I enjoy building fast, scalable apps and automating the boring stuff.
-
----
-
-### 🧠 Core Skills
-
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS, Bootstrap, DOM Manipulation
-- **Backend:** Flask, Node.js (basic), REST APIs
-- **Databases:** Firebase, Supabase
-- **Automation:** n8n, Telegram Bot API, Webhooks
-- **Data & ML:** Pandas, NumPy, Scikit-learn (basics), Prompt Engineering
-- **Version Control & Deployment:** Git, GitHub, Vercel
-- **Tooling:** VS Code, Linux CLI, Ngrok, Figma (for mockups)
+I'm a beginner programmer who likes building small, practical tools and learning how real web apps work from front to back.  
+I focus on clean UI, simple backends, and automating tiny tasks that make life easier.
 
 ---
 
-### ⚙️ What I Build
+## 🧠 Core Skills
 
-- ⚡️ **Full-stack web apps** using React + Flask
-- 🤖 **Automation workflows** using n8n + Telegram Bots
-- 📊 **APIs and Dashboards** for education and digital tools
-- 🧠 **Prompt-driven tools** for learning and task assistance
-
----
-
-### 🚀 Notable Projects
-
-- **🧠 Learning Traits Analyzer**  
-  React + Flask web app that evaluates users’ learning styles based on multiple-choice input.
-
-- **💬 Addis Chat**  
-  A real-time chat app created using only **vanilla HTML, CSS, and JavaScript** — no frameworks. It integrates a lightweight backend API to manage and route messages, making it ideal for simple LAN-based communication setups.
+- **Frontend:** HTML, CSS, JavaScript, React (beginner), Tailwind  
+- **Backend:** Python, Flask (beginner), REST API basics  
+- **Databases:** Firebase (beginner)  
+- **Automation:** Telegram Bots, n8n workflows  
+- **Version Control:** Git, GitHub  
+- **Tools:** VS Code, Linux basics, Figma for simple UI mockups  
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ What I Build
+
+- Small full-stack web apps  
+- Simple automation tools (n8n + Telegram bots)  
+- Beginner APIs and dashboards  
+- Clean and responsive web pages  
+
+---
+
+## 🚀 Projects
+
+### 🧠 Learning Traits Analyzer  
+A small React + Flask project that collects user answers and gives simple learning-style feedback  
+(no ML involved).
+
+### 💬 Addis Chat  
+A lightweight chat app built with vanilla HTML, CSS, and JavaScript to practice DOM updates,  
+event handling, and basic backend communication.
+
+---
+
+## 🛠️ Tech Stack
 
 ```bash
-Languages:        Python, JavaScript, Bash
-Frontend:         React, HTML, CSS, Tailwind, Bootstrap
-Backend:          Flask, REST APIs
-Automation:       n8n, Telegram API, JSON Webhooks
-ML/NLP:           NumPy, Pandas
+Languages:        Python, JavaScript
+Frontend:         HTML, CSS, Tailwind, React (beginner)
+Backend:          Flask (beginner), REST basics
+Automation:       n8n (beginner), Telegram API
 Version Control:  Git, GitHub
-Deployment:       Vercel, Ngrok
+Deployment:       Vercel
+Tools:            VS Code, Linux
