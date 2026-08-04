@@ -1,49 +1,50 @@
-# 👨‍💻 Nahom Mesfin  
-### Aspiring Software Developer | Web Development 
+# 👨‍💻 Nahom Mesfin
 
-I'm a beginner programmer who likes building small, practical tools and learning how real web apps work from front to back.  
-I focus on clean UI, simple backends, and automating tiny tasks that make life easier.
+**Software Developer | CS + Math @ Berea College**
 
----
+I build and maintain web apps that people actually use. Right now I'm on the Student Software Development Team at Berea, working on two production Flask applications that serve 1,500+ students and supervisors. I'm also part of Break Through Tech AI through Cornell Tech, focused on applied machine learning.
 
-## 🧠 Core Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React (beginner), Tailwind  
-- **Backend:** Python, Flask (beginner), REST API basics  
-- **Databases:** Firebase (beginner)  
-- **Automation:** Telegram Bots, n8n workflows  
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code, Linux basics, Figma for simple UI mockups  
+The thing I care most about: building systems that stay maintainable after the person who built them graduates.
 
 ---
 
-## ⚙️ What I Build
+## 🛠️ What I work with
 
-- Small full-stack web apps  
-- Simple automation tools (n8n + Telegram bots)  
-- Beginner APIs and dashboards  
-- Clean and responsive web pages  
+**Languages:** Python, JavaScript, TypeScript, C++, SQL
 
----
+**Backend:** Flask, Peewee ORM, MySQL, Jinja2, REST APIs
 
-## 🚀 Projects
+**Frontend:** React, Next.js, Tailwind, HTML/CSS
 
-### 🧠 Learning Traits Analyzer  
-A small React + Flask project that collects user answers and gives simple learning-style feedback.
+**ML & AI:** scikit-learn, pandas, NumPy, LLM APIs
 
-### 💬 Addis Chat  
-A lightweight chat app built with vanilla HTML, CSS, and JavaScript to practice DOM updates,  
-event handling, and basic backend communication.
+**Tools:** Git, GitHub Actions, Docker, pytest, Linux, Figma
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm building
 
-```bash
-Languages:        Python, JavaScript
-Frontend:         HTML, CSS, Tailwind, React (beginner)
-Backend:          Flask (beginner), REST basics
-Automation:       n8n (beginner), Telegram API
-Version Control:  Git, GitHub
-Deployment:       Vercel
-Tools:            VS Code, Linux
+### Labor Status Form & CELTS `(work, private repo)`
+Two Flask applications used across Berea's Labor Program. I shipped a contract management feature end to end, fixed the team's broken Docker dev container setup, and wrote pytest integration tests against a live MySQL instance. The codebase has 4,000+ commits and a developer team that turns over every few years, so most of my work is about leaving things easier to pick up than I found them.
+
+### 🧠 Learning Style Predictor
+Designed and distributed my own questionnaire to secondary school students, then cleaned 134 real responses with inconsistent free-text entries and missing values across 30+ fields. Trained a Random Forest classifier and sent every respondent their predicted learning style with matched study strategies. Messy data, real users, actual follow-up.
+
+`Python` `pandas` `scikit-learn` `joblib`
+
+### 💬 AddisChat
+A chat application built to help students at my school understand how GPT models work under the hood. Won Best Project at Kotebe University of Education Science Shared Campus. Currently rebuilding it with retrieval over a real document corpus and an evaluation harness to measure whether the answers are actually grounded.
+
+`JavaScript` `LLM APIs` `RAG`
+
+---
+
+## 📚 Currently
+
+Studying CS and Math at Berea College, mentoring with AddisCoder (teaching algorithms to Ethiopian high school students), and reading about why long-lived software systems decay and what keeps them from it.
+
+---
+
+## 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/nahommesfin/) • terrefen@berea.edu
