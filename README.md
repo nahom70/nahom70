@@ -48,8 +48,8 @@ Exploring: retrieval-augmented generation and evaluation for LLM systems
 
 ## Featured Projects
 
-### Labor Status Form & CELTS
-*Work project, private repo — Berea College SSDT*
+### [Labor Status Form](https://github.com/BCStudentSoftwareDevTeam/lsf) & [CELTS](https://github.com/BCStudentSoftwareDevTeam/celts)
+*Open source, Berea College Student Software Development Team*
 
 Two Flask applications used across Berea's Labor Program, serving 1,500+ students and supervisors. I shipped a contract management feature end to end, fixed the team's broken Docker dev container setup, and wrote pytest integration tests against a live MySQL instance. Seven years of history, 4,000+ commits, and a developer team that turns over every few years.
 
